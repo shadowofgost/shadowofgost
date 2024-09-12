@@ -6,5 +6,6 @@
 - 🔭 [sudathesis](https://github.com/shadowofgost/sudathesis-soochow-university-latex-template) Author
 - 🌱 Preferred Coding Language rust/python/javascript
 - 💬 main direction: Quant Trading/Porfolio Management/Risk Management
+- 👉 [Here](https://shadowofgost.github.io/) is my personal website. Here is my juejin Home page
 
 ![m](github-metrics.svg)
