@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    258 views in last two weeks
+                                    251 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2325,6 +2325,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2479,6 +2484,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -2502,7 +2508,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vnpy/vnpy_optionmaster</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VeighNa框架的期权波动率交易模块</div>
@@ -2555,7 +2561,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shap/shap</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A game theoretic approach to explain the output of any machine learning model.</div>
@@ -2589,7 +2595,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        2.61k
+                                        2.62k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2608,7 +2614,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>moyuweiqing/A-stock-prediction-algorithm-based-on-machine-learning</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">（陆续更新）重新整理过的基于机器学习的股票价格预测算法，里面包含了基本的回测系统以及各种不同的机器学习算法的股票价格预测，包含：LSTM算法、Prophet算法、AutoARIMA、朴素贝叶斯、SVM、随机森林等</div>
@@ -2655,7 +2661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trifectatechfoundation/sudo-rs</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A memory safe implementation of sudo and su.</div>
@@ -2787,6 +2793,26 @@
                                 <div class="details">
                                     <div>opened by Alexainess in <span class="repo">shadowofgost/sudathesis-soochow-university-latex-template</span></div>
                                     <div class="comment">
+                                        <i>学长您好，所有问题都已经得到了解决。所谓二级标题其实就是1.1改为第1.1节这种。已经在pdf中编辑了（原谅我实在找不到怎么在setup中改） 以上，祝您学业有成工作顺利！</i>
+                                        我周末改一下你可以直接看一下，确实很抱歉我现在没有时间去处理这个bug
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#7 论文格式修改的问题</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Alexainess in <span class="repo">shadowofgost/sudathesis-soochow-university-latex-template</span></div>
+                                    <div class="comment">
                                         <i>对不起，并不知道您在赶ddl。
 可能是格式机器人刚上线存在诸多问题。格式还是2020年的规范要求。 目录就是从四级目录改为二级目录。（这个不知道在哪个文件改） 如果您不方便的话，您告知我在何处修改即可。 （比如图片编号、表格编号从1.1改为1-1以及改字体、字号、编码格式）</i>
                                         模板文件很长，我告诉你改的时间我可以直接动手做看效果了。目前需要明确的就是正文一二级标题字体的问题以及格式的标准。因为按照标准正文一二级字体就是黑体如果我没记错的话，格式机器要求宋体是很奇怪的。或者等我周末的时候上线改一下
@@ -2864,24 +2890,6 @@ You are receiving this because you commented.Message ID: @.***&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#5 参考文献引用有误</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Alexainess in <span class="repo">shadowofgost/sudathesis-soochow-university-latex-template</span></div>
-                                    <div class="comment">参考文献引用和setup中的设置也有关系，所以我需要看到setup设置才能做进一步判断
-参考文献在文章中被引用才会被编译显示，你是不是只是引用了前两个没有显示前三个？默认的参考文献格式是按照引用顺序从先到后排序，如果没有在文中引用自然就不会在参考文献中编译显示。</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2905,7 +2913,7 @@ You are receiving this because you commented.Message ID: @.***&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2025, 00:11:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Apr 2025, 00:11:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
